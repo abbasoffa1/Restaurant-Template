@@ -1,0 +1,320 @@
+body{
+    margin:0;
+    font-family: 'David Libre', serif;
+}
+#EnYuxari{
+    background-image: url(../about/images/bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:absolute;
+    width: 100%;
+    height: 350px;
+    margin: 0;   
+    display: inline-block;  
+}
+.Baslig ul li{
+ 
+    display: inline-block;   
+    padding: 20px 20px;
+    font-size: 25px;  
+}
+.Baslig ul{
+    margin-top: -61px;
+    margin-left: 261px;
+}
+.Baslig img{
+    width: 203px;
+    height: 48px;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.Baslig {
+    border-radius:30px 30px 30px 30px;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top:0px;
+    background-color:rgba(245, 222, 179, 0.552); 
+    display: inline-block;
+    bottom:590px;
+}
+.Icon{
+    position: fixed;
+    font-size: 50px;
+    left:20px;
+    bottom:20px;
+}
+.Baslig ul li{
+    margin-top:-4px;
+}
+.Baslig ul li a{
+    color:rgb(42,33,34);
+    text-decoration:none;
+}
+.Baslig a:hover{
+ 
+ border-bottom: 3px solid ;
+
+}
+.Yazilar{
+    width: 100%;
+    height: 340px;
+    display: inline-block;
+    
+}
+.Sag{
+    width: 45%;
+    height: 340px;
+    background-color:whitesmoke;
+    display: inline-block;
+    margin-top:20px;
+    margin-left: 44px;
+    color:rgb(42,33,34);
+}
+.Sol{
+    width: 45%;
+    height: 340px;
+    background-color:whitesmoke;
+    display: inline-block;
+    margin-top:20px;
+    margin-left: 33px;
+    color:rgb(42,33,34);
+}
+.Baslig2 h1{
+    font-family: 'David Libre', serif;
+    width: 50%;
+    height: 400px;
+    font-size: 60px;
+    color: wheat;
+    margin-left: 169px;
+    margin-top: 167px;
+}
+#History
+{
+    background-color: white;
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    display: inline-block;
+}
+.SagOrta{
+   
+    width: 450px;
+    height: 100%;
+    margin-top:50px;
+    display: inline block;
+}
+.SolOrta {
+    background-color: rgb(244,244,244);
+ 
+    width: 50%;
+    height:100%;
+    margin-top: -365px;
+    margin-right: 88px;
+    font-size: 20px;
+    float: right;
+    clear: both;
+    color:rgb(42,33,34);
+}
+.SolOrta h3{
+    width: 100%;
+    margin-left: 4px;
+}
+.SolOrta h1{
+    width: 100%;
+    margin-left: 0px;
+}
+#Meet{
+    background-color: rgb(244,244,244);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    display: inline-block;
+}
+.First{
+   width: 100%;
+   height:100px;
+   display: inline-block;
+   margin-top: 10px;
+
+}
+.First h1{
+    font-size: 60px;
+    color:rgb(42,33,34);
+    margin-top: 10px;    
+}
+.Frederico{
+    width: 100%;
+    height:700px ;
+    display: inline-block;
+    
+}
+.Yazi{
+    color:rgb(42,33,34);
+    width: 68%;
+    height:400px; 
+    float:right;
+    clear: right;
+    margin-top: -411px;
+    margin-left: 10px;
+}
+.Adi{
+    color:rgb(42,33,34);
+    width: 68%;
+    height:400px; 
+    margin-top: -100px;
+    margin-left: 430px;
+}
+.Imza {
+    margin-top: -388px;
+    margin-left: 1102px;
+}
+.Sekil img{
+    margin-top: 90px;
+    margin-left: 60px;
+}
+#Chefs{
+    background-color: rgb(244,244,244);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    display: inline-block;
+}
+.Images{
+    width: 100%;
+    height:400px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.Images img{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.Yazilar{
+    width: 100%;
+    height:400px;
+    display: inline-block;
+    margin: 0px;
+}
+.Yazilar1 h3{
+    color:rgb(200,176,116);
+}
+.Sandra{
+    width: 30%;
+    height:400px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.Diana{
+    width: 20%;
+    height:400px;
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 50px;
+}
+.Donald{
+    width: 30%;
+    height:400px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 141px;
+}
+.Sag h1{
+    color:rgb(200,176,116);
+}
+.Sol h1{
+    color:rgb(200,176,116);
+}
+.SolOrta h1{
+    color:rgb(200,176,116);
+}
+.First h1{
+    color:rgb(200,176,116);
+}
+.Hereket{
+    position: fixed;
+    right:20px;
+    bottom:20px;
+    font-size:50px;
+    font-style: normal;
+}
+.Hereket a{
+    text-decoration:None;
+}
+.Hereket a i{
+    color:darkkhaki;
+}
+.Icon{
+    position: fixed;
+    left: 1147px;
+    top: 20px;
+    font-size:30px;
+    font-style: normal;
+}
+.Icon a{
+    text-decoration:None;
+}
+.Icon a svg{
+    color:rgb(42,33,34);
+}
+#Footer{
+    width: 100%;
+    height: 530px;
+    background-color: rgb(42,33,34);
+}
+.F1{
+    width: 100%;
+    height:100px;
+}
+.F1 img{
+    width:203px;
+    height:  48px;
+    margin-top: 71px;
+    margin-left: 533px;
+}
+.F2 {
+    width:100% ;
+    height:150px ;
+    margin-top: 89px;
+ 
+}
+.F2 p{
+    color:whitesmoke;
+    float: left;
+    margin-left: 149px;
+}
+.F3{
+    width:100% ;
+    height:100px ;
+    
+}
+.Icon2{
+    text-align: center; 
+    font-size:40px;
+    font-style: normal;
+    margin-top: 10px;
+    margin-left: -57px;
+}
+.Icon2 a{
+    text-decoration:None;
+}
+.Icon2 a svg{
+    color:whitesmoke;
+}
+.F4{
+    width:100% ;
+    height:80px ;
+}
+.F4 p{
+    color:whitesmoke;
+    float: left;
+    margin-left: 495px;
+}
+
+
+
+
+
+
+

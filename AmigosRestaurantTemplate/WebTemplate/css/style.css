@@ -1,0 +1,322 @@
+body{
+    font-family: 'David Libre', serif;
+    margin:0;
+}
+#EnYuxari{
+  
+    background-image: url(../images/bck.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;   
+	background-attachment:absolute;
+    width: 100%;
+    height: 670px;
+    display: inline-block;
+}
+.Baslig ul li{
+    display: inline-block;   
+    padding: 20px 20px;
+    font-size: 25px;  
+}
+.Baslig ul{
+    margin-top: -59px;
+    margin-left: 231px;  
+}
+.Baslig {
+    border-radius:30px 30px 30px 30px;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top:0px;
+    background-color:rgba(245, 222, 179, 0.552); 
+    display: inline-block;
+    bottom:590px;
+}
+.Baslig ul li{
+    margin-top:-4px;
+}
+.Baslig ul li a{
+  
+    color:rgb(42,33,34);
+    text-decoration:none;
+}
+.Baslig a:hover{
+ 
+ border-bottom: 3px solid ;
+
+}
+.Baslig2 h1{
+   
+    width: 50%;
+    height: 400px;
+    font-size: 70px;
+    color: wheat;
+    margin-left: -28px;
+    margin-top: 172px;
+}
+.Baslig2 h2{
+    
+    width:30%  ;
+    height: 100px;
+    font-size: 30px;
+    color:wheat;
+    margin-top: -145px;
+    margin-left: 96px;    
+    position: relative;
+}
+.Baslig img{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline-block;
+}
+#History
+{
+    background-color: rgb(254,254,254);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    display: inline-block;
+}
+.SagOrta{
+   
+    width: 900px;
+    height: 100%;
+    margin-top:50px;
+    display: inline block;
+}
+.SolOrta {
+    
+    background-color: whitesmoke;
+    width: 500px;
+    height:100% ;
+    margin-top: -457px;
+    margin-right: 160px;
+    font-size: 30px;
+    float: right;
+    float:bottom;
+}
+#Menu{
+ background-color:  white;
+ 
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    display: inline-block;
+  
+}
+.EsasOrta1 h1{
+ 
+    width: 100%;
+    height: 70px;
+    font-size: 50px;
+    color:rgb(200,176,116);
+    margin-top: -40px;
+}
+EsasOrta2{
+   
+    width: 300px;
+    height: 300px;
+    display: inline-block; 
+}
+.EsasOrta2 img{
+    
+     padding: 20px 20px;
+     width: 45%;
+     height:100% ;
+     margin-left: 23px;
+     margin-top: 18px;
+     margin-right: 20px;
+     margin-bottom: 20px;
+     display: inline-block; 
+}
+.EsasOrta3{
+   
+    background-color: whitesmoke;
+    width: 45%;
+    height: 500PX;
+    margin-left: 680px;
+    margin-top: -686px;
+    margin-right: 20px;
+    margin-bottom: 20px;   
+    font-size: 20px;   
+}
+.EsasOrta3 h1{
+   
+    width: 100%;
+    height: 100px;
+    font-size: 40px;
+    color:rgb(200,176,116);
+}
+.EsasOrta3 hr{
+  
+    margin-left: 10px;
+    margin-top: -59px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#DailyMenu{
+    background-color: white;
+       width: 100%;
+       height: 500px;
+       display: inline-block;     
+}
+.DailyMenu h1{
+    color:darkkhaki;
+    width: 100%;
+    font-size: 45px;
+}
+.Lunchsol
+ {
+    width: 45%;
+    height:200px;  
+    background-color: whitesmoke;
+    margin-left:10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    font-size: 20px;
+    display: inline-block;
+}
+.Lunchsag {
+    width: 45%;
+    height:200px;  
+    background-color: whitesmoke;
+    margin-left: 681px;
+    margin-top: -239px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    font-size: 20px;
+}
+.LunchBaslig h1{
+    color:darkkhaki;
+    width: 100%;
+    font-size: 45px;
+}
+.DailyMenu p{
+   
+    font-size: 30px;
+}
+#Events{
+    background-color: white;
+    width: 100%;
+    height:700px;
+}
+.BasligE h1{
+ font-size: 40px;
+ color:darkkhaki;
+}
+.SekilE img{
+display: block;
+margin: 10px auto; 
+}
+#Gallery{
+    background-color: whitesmoke;
+    width: 100%;
+    height:670px; 
+}
+.YaziHissesi{
+    font-size: 40px;
+    color:darkkhaki;
+}
+.Sol1 img {
+    margin-top: 5px;
+    margin-left: 184px;
+}
+.Sol2 img {
+    margin-top: 11px;
+    margin-left: 184px;
+}
+.Sol1 img:hover{
+    opacity: 0.7;
+}
+.Sol2 img:hover{
+    opacity: 0.7;
+}
+.Hereket{
+    position: fixed;
+    right:20px;
+    bottom:20px;
+    font-size:50px;
+    color:grey;
+}
+.Hereket{
+    position: fixed;
+    right:20px;
+    bottom:20px;
+    font-size:50px;
+    font-style: normal;
+}
+.Hereket a{
+    text-decoration:None;
+}
+.Hereket a i{
+    color:darkkhaki;
+}
+.Icon{
+    position: fixed;
+    left: 1147px;
+    top: 20px;
+    font-size:30px;
+    font-style: normal;
+}
+.Icon a{
+    text-decoration:None;
+}
+.Icon a svg{
+    color:rgb(42,33,34);
+}
+#Footer{
+    width: 100%;
+    height: 530px;
+    background-color: rgb(42,33,34);
+}
+.F1{
+    width: 100%;
+    height:100px;
+}
+.F1 img{
+    width:203px;
+    height:  48px;
+    margin-top: 71px;
+    margin-left: 533px;
+}
+.F2 {
+    width:100% ;
+    height:150px ;
+    margin-top: 89px;
+ 
+}
+.F2 p{
+    color:whitesmoke;
+    float: left;
+    margin-left: 149px;
+}
+.F3{
+    width:100% ;
+    height:100px ;
+    
+}
+.Icon2{
+    text-align: center; 
+    font-size:40px;
+    font-style: normal;
+    margin-top: 10px;
+    margin-left: -57px;
+}
+.Icon2 a{
+    text-decoration:None;
+}
+.Icon2 a svg{
+    color:whitesmoke;
+}
+.F4{
+    width:100% ;
+    height:80px ;
+}
+.F4 p{
+    color:whitesmoke;
+    float: left;
+    margin-left: 495px;
+}

@@ -1,0 +1,357 @@
+body{
+    margin:0;font-family: 'David Libre';
+}
+#EnYuxari{
+  
+    background-image: url(../menu1/images/bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:absolute;
+    width: 100%;
+    height: 350px;
+    margin: 0;   
+    display: inline-block;
+    
+}
+.Baslig ul li{
+ 
+    display: inline-block;   
+    padding: 20px 20px;
+    font-size: 25px;  
+}
+.Baslig ul{
+    margin-top: -58px;
+    margin-left: 261px;
+}
+.Baslig img{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Baslig {
+    border-radius:30px 30px 30px 30px;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top:0px;
+    background-color:rgba(245, 222, 179, 0.552); 
+    display: inline-block;
+    bottom:590px;
+}
+.Baslig ul li{
+    margin-top:-4px;
+}
+.Baslig ul li a{
+  
+    color:rgb(42,33,34);
+    text-decoration:none;
+}
+.Baslig a:hover{
+ 
+ border-bottom: 3px solid ;
+
+}
+.Baslig2 h1{
+    font-family: 'David Libre', serif;
+    width: 50%;
+    height: 400px;
+    font-size: 60px;
+    color: wheat;
+    margin-left: 229px;
+    margin-top: 167px;
+}
+#Menu{
+    background-color:  white;
+    
+       width: 100%;
+       height: 700px;
+       background-size: cover;
+       display: inline-block;
+     
+   }
+   .EsasOrta1 h1{
+    
+       width: 100%;
+       height: 70px;
+       font-size: 50px;
+       color:rgb(200,176,116);
+       margin-top: 28px;
+   }
+   .MENU{
+       margin-top: 10px;
+       margin-left: 10px;
+   }
+   .EsasOrta2 img{
+      
+       padding: 20px 20px;
+       width: 45%;
+       height:100% ;
+       margin-left: 23px;
+       margin-top: 60px;
+       margin-right: 20px;
+       margin-bottom: 20px;
+       display: inline-block; 
+   }
+   .EsasOrta3{
+      
+       background-color: whitesmoke;
+       width: 45%;
+       height: 500PX;
+       margin-left: 680px;
+       margin-top: -686px;
+       margin-right: 20px;
+       margin-bottom: 20px;   
+       font-size: 20px;   
+   }
+   .EsasOrta3 h1{
+      
+       width: 100%;
+       height: 100px;
+       font-size: 40px;
+       color:rgb(200,176,116);
+   }
+   .EsasOrta3 hr{
+     
+       margin-left: 10px;
+       margin-top: -59px;
+       margin-right: 20px;
+       margin-bottom: 20px;
+   }
+   #DailyMenu{
+    background-color: white;
+       width: 100%;
+       height: 500px;
+       display: inline-block;     
+}
+.DailyMenu h1{
+    color:darkkhaki;
+    width: 100%;
+    font-size: 45px;
+}
+.Lunchsol
+ {
+    color:rgb(42,33,34);
+    width: 45%;
+    height:200px;  
+    background-color: whitesmoke;
+    margin-left:10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    font-size: 20px;
+    display: inline-block;
+}
+.Lunchsag {
+    color:rgb(42,33,34);
+    width: 45%;
+    height:200px;  
+    background-color: whitesmoke;
+    margin-left: 681px;
+    margin-top: -239px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    font-size: 20px;
+}
+.LunchBaslig h1{
+    color:darkkhaki;
+    width: 100%;
+    font-size: 45px;
+}
+.DailyMenu p{
+   
+    font-size: 30px;
+}
+#Allmenu{
+    background-image: url(../menu1/images/qsq.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;   
+	background-attachment:absolute;
+    width: 100%;
+    height: 680px;
+    display: inline-block;
+}
+.Yaziall{
+    color:white;
+font-size: 40px;
+width: 100%;
+height:100px; ;
+}
+.Menuhissesi{
+    width: 100%;
+    height:550px ;
+   
+}
+.Solhisse{
+    background-color: rgba(8, 51, 92, 0.596);
+    width: 45%;
+    height:400px;
+    margin-left: 27px;
+    margin-top: 81px;
+    font-size: 24px;
+    display: inline-block;
+    color:white;
+    padding: 10px;
+}
+.Saghisse{
+    width: 45%;
+    height:400px;
+    margin-left: 688px;
+    margin-top: -420px;
+    padding:10px;
+    font-size: 24px;
+    background-color: rgba(8, 51, 92, 0.596);
+    color:white;
+
+}
+#Esasmenu{
+    width: 100%;
+    height: 680px;
+    display: inline-block;
+    background-color:white;
+}
+.Yazi{
+    color:darkkhaki;
+    font-size: 30px;
+    width: 100%;
+    height:100px; 
+}
+.Menuyazisi{
+    width: 100%;
+    height:550px ;
+}
+.Solyazi{
+    background-color:whitesmoke;
+    color:rgb(42,33,34);
+    width: 45%;
+    height:450px;
+    margin-left: 44px;
+    margin-top: 37px;
+    font-size: 24px;
+    display: inline-block;
+    padding: 10px;
+}
+.Sagyazi{
+   background-color:whitesmoke;
+    width: 45%;
+    height:450px;
+    margin-left: 681px;
+    margin-top: -470px;
+    font-size: 24px;
+    color:rgb(42,33,34);
+    padding: 10px;
+}
+#Drink{
+    width:100%;
+    height:670px;
+    background-image: url(../menu1/images/drink.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;   
+    background-attachment:absolute;
+    display: inline-block;
+}
+.Deserts{
+    width: 45%;
+    height:90% ;
+    background-color: rgba(8, 92, 92, 0.7);
+    color:white;
+    font-size: 25px;
+    margin-top: 38px;
+    margin-left: 30px;
+    display: inline-block;
+    padding: 10px 10px;
+}
+.Drinks{
+    width: 45%;
+    height:90% ;
+    background-color: rgba(8, 92, 92, 0.7);
+    color:white;
+    font-size: 20px;
+    margin-top: -623px;
+    margin-left: 685px;
+    padding: 10px 10px;
+}
+.Drinks h1{
+    font-size: 38px;
+}
+.Hereket{
+    position: fixed;
+    right:20px;
+    bottom:20px;
+    font-size:50px;
+    font-style: normal;
+}
+.Hereket a{
+    text-decoration:None;
+}
+.Hereket a i{
+    color:darkkhaki;
+}
+.Icon{
+    position: fixed;
+    left: 1147px;
+    top: 20px;
+    font-size:30px;
+    font-style: normal;
+}
+.Icon a{
+    text-decoration:None;
+}
+.Icon a svg{
+    color:rgb(42,33,34);
+}
+#Footer{
+    width: 100%;
+    height: 530px;
+    background-color: rgb(42,33,34);
+}
+.F1{
+    width: 100%;
+    height:100px;
+}
+.F1 img{
+    width:203px;
+    height:  48px;
+    margin-top: 71px;
+    margin-left: 533px;
+}
+.F2 {
+    width:100% ;
+    height:150px ;
+    margin-top: 89px;
+ 
+}
+.F2 p{
+    color:whitesmoke;
+    float: left;
+    margin-left: 149px;
+}
+.F3{
+    width:100% ;
+    height:100px ;
+    
+}
+.Icon2{
+    text-align: center; 
+    font-size:40px;
+    font-style: normal;
+    margin-top: 10px;
+    margin-left: -57px;
+}
+.Icon2 a{
+    text-decoration:None;
+}
+.Icon2 a svg{
+    color:whitesmoke;
+}
+.F4{
+    width:100% ;
+    height:80px ;
+}
+.F4 p{
+    color:whitesmoke;
+    float: left;
+    margin-left: 495px;
+}
